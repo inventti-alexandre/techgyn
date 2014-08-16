@@ -1,0 +1,81 @@
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\Desktop_App.exe.config
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadSalas.resources
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_Principal.resources
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.Properties.Resources.resources
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\Desktop_App.exe
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\Desktop_App.pdb
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\BLL.dll
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\DAL.dll
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\Modelos.dll
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\BLL.pdb
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\DAL.pdb
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\Modelos.pdb
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.exe
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\Desktop_App.exe.config
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.exe
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\Desktop_App.exe
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\Desktop_App.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\BLL.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\DAL.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\Modelos.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\BLL.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\DAL.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\bin\Debug\Modelos.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csprojResolveAssemblyReference.cache
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadSalas.resources
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_Principal.resources
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.Properties.Resources.resources
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csproj.GenerateResource.Cache
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\Desktop_App.exe.config
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.exe
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\Desktop_App.exe
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\Desktop_App.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\BLL.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\Controller.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\DAL.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\BLL.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\Controller.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\DAL.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csprojResolveAssemblyReference.cache
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadSalas.resources
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_Principal.resources
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.Properties.Resources.resources
+C:\Users\Megazord\Downloads\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csproj.GenerateResource.Cache
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\BLL.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Controller.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\DAL.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\BLL.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Controller.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\DAL.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csprojResolveAssemblyReference.cache
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadSalas.resources
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.View_Desktop_ConSalas.resources
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_Principal.resources
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.Properties.Resources.resources
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csproj.GenerateResource.Cache
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe.config
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.exe
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe.manifest
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.application
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Npgsql.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Mono.Security.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadClientes.resources
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.exe.manifest
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.application
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_ConProdutos.resources
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadProdutos.resources
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.View_Desktop_ConClientes.resources
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_CadReservas.resources

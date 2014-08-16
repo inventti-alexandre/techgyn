@@ -1,0 +1,126 @@
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe.config
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe.manifest
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.application
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\BLL.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Controller.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\DAL.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Npgsql.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Mono.Security.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Controller.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadProdutos.resources
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.View_Desktop_ConClientes.resources
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadClientes.resources
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_CadReservas.resources
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadSalas.resources
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.View_Desktop_ConSalas.resources
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_Principal.resources
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.Properties.Resources.resources
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csproj.GenerateResource.Cache
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.exe.manifest
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.application
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.exe
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe.config
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe.manifest
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.application
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\BLL.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Controller.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\DAL.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Npgsql.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Mono.Security.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\BLL.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Controller.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\DAL.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csprojResolveAssemblyReference.cache
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadProdutos.resources
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadClientes.resources
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_CadReservas.resources
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadSalas.resources
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.View_Desktop_ConSalas.resources
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_Principal.resources
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.Properties.Resources.resources
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csproj.GenerateResource.Cache
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.exe.manifest
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.application
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.exe
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_ConProdutos.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe.config
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.exe
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe.manifest
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.application
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\BLL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Controller.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\DAL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Npgsql.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Mono.Security.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\BLL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Controller.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\DAL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_ConProdutos.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadProdutos.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_ConClientes.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadClientes.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_CadReservas.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadSalas.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.View_Desktop_ConSalas.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_Principal.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.Properties.Resources.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csproj.GenerateResource.Cache
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.exe.manifest
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.application
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_ConMovimentacaoEstoques.resources
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadMovimentacaoEstoques.resources
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_ConClientes.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_ConMovimentacaoEstoques.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadMovimentacaoEstoques.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe.config
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.exe
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe.manifest
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.application
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.exe
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\TechGym.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\BLL.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Controller.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\DAL.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Npgsql.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Mono.Security.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\BLL.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Controller.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\DAL.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\bin\Debug\Modelos.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csprojResolveAssemblyReference.cache
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_ConMovimentacaoEstoques.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadMovimentacaoEstoques.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_ConProdutos.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadProdutos.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_ConClientes.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadClientes.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_CadReservas.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.View_Desktop_CadSalas.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.View_Desktop_ConSalas.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Academia.View.Desktop.Principal.View_Desktop_Principal.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.Properties.Resources.resources
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\VIEW_DESKTOP.csproj.GenerateResource.Cache
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.exe.manifest
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\TechGym.application
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Desktop_App\obj\x86\Debug\Desktop_App.View_Desktop_ConSalas.View_Desktop_ConSalas.resources

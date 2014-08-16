@@ -1,0 +1,135 @@
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Controller\bin\Debug\Controller.dll
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Controller\bin\Debug\Controller.pdb
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Controller\obj\Debug\ResolveAssemblyReference.cache
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Controller\obj\Debug\Controller.dll
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Controller\obj\Debug\Controller.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Controller\bin\Debug\Controller.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Controller\bin\Debug\Controller.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Controller\obj\Debug\Controller.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Controller\obj\Debug\Controller.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\bin\Debug\Controller.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\bin\Debug\Controller.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\bin\Debug\BLL.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\bin\Debug\Modelos.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\bin\Debug\DAL.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\bin\Debug\BLL.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\bin\Debug\Modelos.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\bin\Debug\DAL.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\obj\Debug\Controller.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\Controller\obj\Debug\Controller.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.pdb
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.dll
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.pdb
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.dll
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.dll
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.dll
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.pdb
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.pdb
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.pdb
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.dll
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.dll
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.dll
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.dll
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.dll
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.dll
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Npgsql.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Mono.Security.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Npgsql.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Mono.Security.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Npgsql.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Npgsql.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Mono.Security.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Npgsql.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Mono.Security.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Mono.Security.dll
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Npgsql.dll
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Mono.Security.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Npgsql.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Mono.Security.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\CONTROLLER.csprojResolveAssemblyReference.cache
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Controller.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Npgsql.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Mono.Security.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\BLL.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\Modelos.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\bin\Debug\DAL.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Controller\obj\Debug\Controller.pdb

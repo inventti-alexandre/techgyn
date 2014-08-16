@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Academia.Model.Vo.Agenda.Model_Vo_Agenda">
+    <Position X="7.25" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAAAAIAAQAAABAgAAAAAAAAAkAAAAABAAAACA=</HashCode>
+      <FileName>Model_Vo_Agenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.Model.Vo.Cliente.Model_Vo_Cliente" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAACYABAgCRIACAAACFAwEKAAEgABAAIACACAwGBAmM=</HashCode>
+      <FileName>Model_Vo_Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.Model.Vo.ContasAReceber.Model_Vo_ContasAReceber">
+    <Position X="12.5" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACCIAABIAJAAAAAAAMgAAAEAAAAQAAFAIABgAEACA=</HashCode>
+      <FileName>Model_Vo_ContasAReceber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.Model.Vo.LivroCaixa.Model_Vo_LivroCaixa">
+    <Position X="3.75" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BCACAAAAAAAJAAAAACQACAAEEAAAAIAAAAAAAABEACA=</HashCode>
+      <FileName>Model_Vo_LivroCaixa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.Model.Vo.MovimentacaoEstoque.Model_Vo_MovimentacaoEstoque" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAIBIBACCRMCAAAAAAAAYAAAAEQIAAAQCA=</HashCode>
+      <FileName>Model_Vo_MovimentacaoEstoque.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.Model.Vo.Produto.Model_Vo_Produto" Collapsed="true">
+    <Position X="13.25" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAgEAABAgAgAABAAAAAAAAAAAAAACAAAAAIEiA=</HashCode>
+      <FileName>Model_Vo_Produto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Academia.Model.Vo.Sala.Model_Vo_Sala">
+    <Position X="10" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAACIAAAAAAIAAAAAABAABAAAAgBAAAAAAAAAAEAACQ=</HashCode>
+      <FileName>Model_Vo_Sala.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Academia.Model.Vo.eOrigemContasAReceber.Model_Vo_eOrigemContasAReceber">
+    <Position X="0.5" Y="2.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAEAAAAAAAAAAAAAAAAgAAgAAAAAAAAA=</HashCode>
+      <FileName>Model_Vo_eOrigemContasAReceber.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Academia.Model.Vo.eTipoMovimento.Model_Vo_eTipoMovimento">
+    <Position X="0.5" Y="4.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model_Vo_eTipoMovimento.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Academia.Model.Vo.eTipoSala.Model_Vo_eTipoSala">
+    <Position X="0.5" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model_Vo_eTipoSala.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

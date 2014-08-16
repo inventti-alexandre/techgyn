@@ -1,0 +1,29 @@
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Modelos\bin\Debug\Modelos.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Modelos\obj\Debug\Modelos.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Modelos\obj\Debug\Modelos.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\bin\Debug\Modelos.dll
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\bin\Debug\Modelos.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\MODEL_VO.csprojResolveAssemblyReference.cache
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\Modelos.dll
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\bin\Debug\Modelos.dll
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\MODEL_VO.csprojResolveAssemblyReference.cache
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\Modelos.Properties.Resources.resources
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\MODEL_VO.csproj.GenerateResource.Cache
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\Modelos.dll
+C:\Users\Muka\Google Drive\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\Modelos.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Modelos\bin\Debug\Modelos.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Modelos\bin\Debug\Modelos.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\Modelos.Properties.Resources.resources
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\MODEL_VO.csproj.GenerateResource.Cache
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\Modelos.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Muka\Desktop\t\TechGym\Modelos\bin\Debug\Modelos.dll
+C:\Users\Muka\Desktop\t\TechGym\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Muka\Desktop\t\TechGym\Modelos\obj\Debug\MODEL_VO.csprojResolveAssemblyReference.cache
+C:\Users\Muka\Desktop\t\TechGym\Modelos\obj\Debug\Modelos.Properties.Resources.resources
+C:\Users\Muka\Desktop\t\TechGym\Modelos\obj\Debug\MODEL_VO.csproj.GenerateResource.Cache
+C:\Users\Muka\Desktop\t\TechGym\Modelos\obj\Debug\Modelos.dll
+C:\Users\Muka\Desktop\t\TechGym\Modelos\obj\Debug\Modelos.pdb

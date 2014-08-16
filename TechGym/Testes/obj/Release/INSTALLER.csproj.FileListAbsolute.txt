@@ -1,0 +1,42 @@
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\INSTALLER.exe.config
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\INSTALLER.exe.manifest
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\INSTALLER.application
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\INSTALLER.exe
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\INSTALLER.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Npgsql.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Mono.Security.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.Instalador.resources
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.Properties.Resources.resources
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.csproj.GenerateResource.Cache
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.exe.manifest
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.application
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.exe
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Installer.exe.manifest
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Installer.application
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Installer.exe
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Installer.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Npgsql.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Mono.Security.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.Instalador.resources
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.Properties.Resources.resources
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.csproj.GenerateResource.Cache
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\Installer.exe.manifest
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\Installer.application
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\Installer.exe
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\Installer.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Installer.exe.config
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Installer.exe.config
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Installer.exe.manifest
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Installer.application
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Installer.exe
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Installer.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Npgsql.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\bin\Release\Mono.Security.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.Instalador.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.Properties.Resources.resources
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\INSTALLER.csproj.GenerateResource.Cache
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\Installer.exe.manifest
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\Installer.application
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\Installer.exe
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\Testes\obj\Release\Installer.pdb

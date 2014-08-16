@@ -1,0 +1,204 @@
+--
+-- PostgreSQL database dump
+--
+
+-- Dumped from database version 9.2.4
+-- Dumped by pg_dump version 9.2.4
+-- Started on 2013-05-20 23:11:48
+
+SET statement_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = on;
+SET check_function_bodies = false;
+SET client_min_messages = warning;
+
+--
+-- TOC entry 172 (class 3079 OID 11727)
+-- Name: plpgsql; Type: EXTENSION; Schema: -; Owner: 
+--
+
+CREATE EXTENSION IF NOT EXISTS plpgsql WITH SCHEMA pg_catalog;
+
+
+--
+-- TOC entry 1941 (class 0 OID 0)
+-- Dependencies: 172
+-- Name: EXTENSION plpgsql; Type: COMMENT; Schema: -; Owner: 
+--
+
+COMMENT ON EXTENSION plpgsql IS 'PL/pgSQL procedural language';
+
+
+SET search_path = public, pg_catalog;
+
+--
+-- TOC entry 171 (class 1259 OID 16412)
+-- Name: cliente_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE cliente_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.cliente_id_seq OWNER TO postgres;
+
+SET default_tablespace = '';
+
+SET default_with_oids = false;
+
+--
+-- TOC entry 169 (class 1259 OID 16402)
+-- Name: cliente; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE cliente (
+    id integer DEFAULT nextval('cliente_id_seq'::regclass) NOT NULL,
+    nome text,
+    cpf text,
+    rg text,
+    telefone text,
+    email text,
+    rua text,
+    numero text,
+    bairro text,
+    complemento text,
+    cidade text,
+    cep text,
+    uf text
+);
+
+
+ALTER TABLE public.cliente OWNER TO postgres;
+
+--
+-- TOC entry 170 (class 1259 OID 16410)
+-- Name: sala_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
+--
+
+CREATE SEQUENCE sala_id_seq
+    START WITH 1
+    INCREMENT BY 1
+    NO MINVALUE
+    NO MAXVALUE
+    CACHE 1;
+
+
+ALTER TABLE public.sala_id_seq OWNER TO postgres;
+
+--
+-- TOC entry 168 (class 1259 OID 16394)
+-- Name: sala; Type: TABLE; Schema: public; Owner: postgres; Tablespace: 
+--
+
+CREATE TABLE sala (
+    id integer DEFAULT nextval('sala_id_seq'::regclass) NOT NULL,
+    nome text,
+    capacidade integer,
+    tipo text
+);
+
+
+ALTER TABLE public.sala OWNER TO postgres;
+
+--
+-- TOC entry 1931 (class 0 OID 16402)
+-- Dependencies: 169
+-- Data for Name: cliente; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY cliente (id, nome, cpf, rg, telefone, email, rua, numero, bairro, complemento, cidade, cep, uf) FROM stdin;
+\.
+
+
+--
+-- TOC entry 1944 (class 0 OID 0)
+-- Dependencies: 171
+-- Name: cliente_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('cliente_id_seq', 1, false);
+
+
+--
+-- TOC entry 1930 (class 0 OID 16394)
+-- Dependencies: 168
+-- Data for Name: sala; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY sala (id, nome, capacidade, tipo) FROM stdin;
+\.
+
+
+--
+-- TOC entry 1945 (class 0 OID 0)
+-- Dependencies: 170
+-- Name: sala_id_seq; Type: SEQUENCE SET; Schema: public; Owner: postgres
+--
+
+SELECT pg_catalog.setval('sala_id_seq', 1, false);
+
+
+--
+-- TOC entry 1929 (class 2606 OID 16409)
+-- Name: pkCliente; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY cliente
+    ADD CONSTRAINT "pkCliente" PRIMARY KEY (id);
+
+
+--
+-- TOC entry 1927 (class 2606 OID 16401)
+-- Name: pkSala; Type: CONSTRAINT; Schema: public; Owner: postgres; Tablespace: 
+--
+
+ALTER TABLE ONLY sala
+    ADD CONSTRAINT "pkSala" PRIMARY KEY (id);
+
+
+--
+-- TOC entry 1940 (class 0 OID 0)
+-- Dependencies: 5
+-- Name: public; Type: ACL; Schema: -; Owner: postgres
+--
+
+REVOKE ALL ON SCHEMA public FROM PUBLIC;
+REVOKE ALL ON SCHEMA public FROM postgres;
+GRANT ALL ON SCHEMA public TO postgres;
+GRANT ALL ON SCHEMA public TO PUBLIC;
+
+
+--
+-- TOC entry 1942 (class 0 OID 0)
+-- Dependencies: 169
+-- Name: cliente; Type: ACL; Schema: public; Owner: postgres
+--
+
+REVOKE ALL ON TABLE cliente FROM PUBLIC;
+REVOKE ALL ON TABLE cliente FROM postgres;
+GRANT ALL ON TABLE cliente TO postgres;
+GRANT ALL ON TABLE cliente TO PUBLIC;
+
+
+--
+-- TOC entry 1943 (class 0 OID 0)
+-- Dependencies: 168
+-- Name: sala; Type: ACL; Schema: public; Owner: postgres
+--
+
+REVOKE ALL ON TABLE sala FROM PUBLIC;
+REVOKE ALL ON TABLE sala FROM postgres;
+GRANT ALL ON TABLE sala TO postgres;
+GRANT ALL ON TABLE sala TO PUBLIC;
+
+
+-- Completed on 2013-05-20 23:11:48
+
+--
+-- PostgreSQL database dump complete
+--
+

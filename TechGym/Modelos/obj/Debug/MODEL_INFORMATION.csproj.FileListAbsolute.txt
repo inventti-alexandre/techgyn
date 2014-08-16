@@ -1,0 +1,10 @@
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Modelos\bin\Debug\Modelos.dll
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Modelos\bin\Debug\Modelos.pdb
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Modelos\obj\Debug\ResolveAssemblyReference.cache
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Modelos\obj\Debug\Modelos.dll
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\Modelos\obj\Debug\Modelos.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Modelos\bin\Debug\Modelos.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Modelos\obj\Debug\MODEL_INFORMATION.csprojResolveAssemblyReference.cache
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Modelos\obj\Debug\Modelos.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\Modelos\obj\Debug\Modelos.pdb

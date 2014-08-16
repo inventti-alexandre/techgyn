@@ -1,0 +1,44 @@
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\BLL.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\BLL.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\DAL.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Modelos.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\DAL.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Modelos.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\MODEL_BO.csprojResolveAssemblyReference.cache
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\BLL.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\BLL.pdb
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Npgsql.dll
+C:\Users\AJSouza\Google Drive\UCS\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Mono.Security.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\BLL.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\BLL.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\DAL.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Modelos.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Npgsql.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Mono.Security.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\DAL.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Modelos.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\MODEL_BO.csprojResolveAssemblyReference.cache
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\BLL.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\BLL.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\BLL.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\BLL.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\DAL.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Modelos.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Npgsql.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Mono.Security.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\DAL.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Modelos.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\MODEL_BO.csprojResolveAssemblyReference.cache
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\BLL.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\BLL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\BLL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\BLL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\DAL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Modelos.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Npgsql.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Mono.Security.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\DAL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\bin\Release\Modelos.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\MODEL_BO.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\BLL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\BLL\obj\Release\BLL.pdb

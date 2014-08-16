@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EFEFACC3-B447-4D95-9C62-F8DD3C9CFF5F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Desktop_App</RootNamespace>
+    <AssemblyName>TechGym</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\TechGym\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C242C043AF084142164CCD5D5D3AFFB3CECEFDCD</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>VIEW_DESKTOP_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GerarMensalidades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GerarMensalidades.Designer.cs">
+      <DependentUpon>GerarMensalidades.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_ExtratoLivroCaixa1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_ExtratoLivroCaixa1.Designer.cs">
+      <DependentUpon>View_Desktop_ExtratoLivroCaixa1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_CadContasAReceber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_CadContasAReceber.Designer.cs">
+      <DependentUpon>View_Desktop_CadContasAReceber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_ConContasAReceber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_ConContasAReceber.Designer.cs">
+      <DependentUpon>View_Desktop_ConContasAReceber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_CadLivroCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_CadLivroCaixa.Designer.cs">
+      <DependentUpon>View_Desktop_CadLivroCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_ConLivroCaixa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_ConLivroCaixa.Designer.cs">
+      <DependentUpon>View_Desktop_ConLivroCaixa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelExtratoSalas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelExtratoSalas.Designer.cs">
+      <DependentUpon>PanelExtratoSalas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelWindow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelWindow.Designer.cs">
+      <DependentUpon>PanelWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel_Relatorio.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Panel_Relatorio.Designer.cs">
+      <DependentUpon>Panel_Relatorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_ConMovimentacaoEstoques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_ConMovimentacaoEstoques.Designer.cs">
+      <DependentUpon>View_Desktop_ConMovimentacaoEstoques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_CadMovimentacaoEstoques.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_CadMovimentacaoEstoques.Designer.cs">
+      <DependentUpon>View_Desktop_CadMovimentacaoEstoques.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_ConProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_ConProdutos.Designer.cs">
+      <DependentUpon>View_Desktop_ConProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_CadProdutos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_CadProdutos.Designer.cs">
+      <DependentUpon>View_Desktop_CadProdutos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_ConClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_ConClientes.Designer.cs">
+      <DependentUpon>View_Desktop_ConClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_CadClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_CadClientes.Designer.cs">
+      <DependentUpon>View_Desktop_CadClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_CadReservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_CadReservas.Designer.cs">
+      <DependentUpon>View_Desktop_CadReservas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_CadSalas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_CadSalas.Designer.cs">
+      <DependentUpon>View_Desktop_CadSalas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_ConSalas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_ConSalas.Designer.cs">
+      <DependentUpon>View_Desktop_ConSalas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_ExtratoClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_ExtratoClientes.Designer.cs">
+      <DependentUpon>View_Desktop_ExtratoClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Desktop_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Desktop_Principal.Designer.cs">
+      <DependentUpon>View_Desktop_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GerarMensalidades.resx">
+      <DependentUpon>GerarMensalidades.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_ExtratoLivroCaixa1.resx">
+      <DependentUpon>View_Desktop_ExtratoLivroCaixa1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_CadContasAReceber.resx">
+      <DependentUpon>View_Desktop_CadContasAReceber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_ConContasAReceber.resx">
+      <DependentUpon>View_Desktop_ConContasAReceber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_CadLivroCaixa.resx">
+      <DependentUpon>View_Desktop_CadLivroCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_ConLivroCaixa.resx">
+      <DependentUpon>View_Desktop_ConLivroCaixa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelExtratoSalas.resx">
+      <DependentUpon>PanelExtratoSalas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelWindow.resx">
+      <DependentUpon>PanelWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel_Relatorio.resx">
+      <DependentUpon>Panel_Relatorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_ConMovimentacaoEstoques.resx">
+      <DependentUpon>View_Desktop_ConMovimentacaoEstoques.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_CadMovimentacaoEstoques.resx">
+      <DependentUpon>View_Desktop_CadMovimentacaoEstoques.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_ConProdutos.resx">
+      <DependentUpon>View_Desktop_ConProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_CadProdutos.resx">
+      <DependentUpon>View_Desktop_CadProdutos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_ConClientes.resx">
+      <DependentUpon>View_Desktop_ConClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_CadClientes.resx">
+      <DependentUpon>View_Desktop_CadClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_CadReservas.resx">
+      <DependentUpon>View_Desktop_CadReservas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_CadSalas.resx">
+      <DependentUpon>View_Desktop_CadSalas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_ConSalas.resx">
+      <DependentUpon>View_Desktop_ConSalas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_ExtratoClientes.resx">
+      <DependentUpon>View_Desktop_ExtratoClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Desktop_Principal.resx">
+      <DependentUpon>View_Desktop_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="VIEW_DESKTOP_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\MODEL_BO.csproj">
+      <Project>{F1D23117-43FA-4344-BD7B-7F55372A5729}</Project>
+      <Name>MODEL_BO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Controller\CONTROLLER.csproj">
+      <Project>{ac05ac45-66bb-4e57-b64e-8ab7c084d801}</Project>
+      <Name>CONTROLLER</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\MODEL_DAO.csproj">
+      <Project>{BD566086-C50C-4269-9F6D-D8145C7A1597}</Project>
+      <Name>MODEL_DAO</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modelos\MODEL_VO.csproj">
+      <Project>{288644E4-2013-4B49-A018-97A989BDC0F3}</Project>
+      <Name>MODEL_VO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.3.5">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 3.5 SP2</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addCcliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\consultaCliente.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reservas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Xion.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

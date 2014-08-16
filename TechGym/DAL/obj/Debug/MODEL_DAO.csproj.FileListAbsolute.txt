@@ -1,0 +1,82 @@
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\DAL\obj\Debug\ResolveAssemblyReference.cache
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\DAL\obj\Debug\DAL.dll
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\DAL\obj\Debug\DAL.pdb
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\DAL\bin\Debug\DAL.dll
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\DAL\bin\Debug\DAL.pdb
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\DAL\bin\Debug\Modelos.dll
+D:\Ucs\Tópicos Especiais I\Projeto Visual Studio\Projeto\TechGym\DAL\bin\Debug\Modelos.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\DAL\bin\Debug\DAL.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\DAL\bin\Debug\DAL.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\DAL\bin\Debug\Modelos.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\DAL\bin\Debug\Modelos.pdb
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\DAL\obj\Debug\MODEL_DAO.csprojResolveAssemblyReference.cache
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\DAL\obj\Debug\DAL.dll
+C:\Users\Muka\Downloads\Projeto Visual Studio\Projeto\TechGym\DAL\obj\Debug\DAL.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\DAL\bin\Debug\DAL.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\DAL\bin\Debug\DAL.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\DAL\bin\Debug\Modelos.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\DAL\bin\Debug\Modelos.pdb
+C:\Users\Megazord\Downloads\TechGym\TechGym\DAL\obj\Debug\MODEL_DAO.csprojResolveAssemblyReference.cache
+C:\Users\Megazord\Downloads\TechGym\TechGym\DAL\obj\Debug\DAL.dll
+C:\Users\Megazord\Downloads\TechGym\TechGym\DAL\obj\Debug\DAL.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.pdb
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\MODEL_DAO.csprojResolveAssemblyReference.cache
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.dll
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.dll
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\System.Data.SQLite.pdb
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\System.Data.SQLite.xml
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\MODEL_DAO.csprojResolveAssemblyReference.cache
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.dll
+D:\Home\eduardo.torezan\Pessoal\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Npgsql.dll
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\MODEL_DAO.csprojResolveAssemblyReference.cache
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Npgsql.dll
+C:\Users\Megazord\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Mono.Security.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.pdb
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\MODEL_DAO.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.pdb
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\MODEL_DAO.csprojResolveAssemblyReference.cache
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.dll
+C:\Users\Muka\Downloads\GoogleDrive\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Npgsql.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Mono.Security.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\MODEL_DAO.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.pdb
+C:\Google Drive Sync\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Mono.Security.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Npgsql.dll
+C:\Users\Gabriel\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Mono.Security.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\DAL.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Npgsql.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Mono.Security.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\bin\Debug\Modelos.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\MODEL_DAO.csprojResolveAssemblyReference.cache
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\DAL\obj\Debug\DAL.pdb

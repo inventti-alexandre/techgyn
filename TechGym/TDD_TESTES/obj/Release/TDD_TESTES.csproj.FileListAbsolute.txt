@@ -1,0 +1,30 @@
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\TDD_TESTES.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\TDD_TESTES.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Controller.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Modelos.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\BLL.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\DAL.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Npgsql.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Mono.Security.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Controller.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Modelos.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\BLL.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\DAL.pdb
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\obj\Release\TDD_TESTES.csprojResolveAssemblyReference.cache
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\obj\Release\TDD_TESTES.dll
+C:\Google Drive Sync2\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\obj\Release\TDD_TESTES.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\TDD_TESTES.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\TDD_TESTES.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Controller.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Modelos.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\BLL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\DAL.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Npgsql.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Mono.Security.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Controller.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\Modelos.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\BLL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\bin\Release\DAL.pdb
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\obj\Release\TDD_TESTES.csprojResolveAssemblyReference.cache
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\obj\Release\TDD_TESTES.dll
+C:\Users\eduardo.torezan\Google Drive\Tópicos Especiais I\TechGym\TechGym\TDD_TESTES\obj\Release\TDD_TESTES.pdb

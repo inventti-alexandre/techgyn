@@ -1,0 +1,7 @@
+C:\Pedidos_Eng_Soft_III_Entrega\Projeto\TrabalhoFinalEngSoftIII\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Pedidos_Eng_Soft_III_Entrega\Projeto\TrabalhoFinalEngSoftIII\DAL\bin\Debug\DAL.dll
+C:\Pedidos_Eng_Soft_III_Entrega\Projeto\TrabalhoFinalEngSoftIII\DAL\bin\Debug\DAL.pdb
+C:\Pedidos_Eng_Soft_III_Entrega\Projeto\TrabalhoFinalEngSoftIII\DAL\bin\Debug\Modelos.dll
+C:\Pedidos_Eng_Soft_III_Entrega\Projeto\TrabalhoFinalEngSoftIII\DAL\bin\Debug\Modelos.pdb
+C:\Pedidos_Eng_Soft_III_Entrega\Projeto\TrabalhoFinalEngSoftIII\DAL\obj\Debug\DAL.dll
+C:\Pedidos_Eng_Soft_III_Entrega\Projeto\TrabalhoFinalEngSoftIII\DAL\obj\Debug\DAL.pdb
